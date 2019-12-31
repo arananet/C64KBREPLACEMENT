@@ -45,6 +45,12 @@ If you like the project, buy me a beer or a Mercedes SLR :) info@arananet.net
 
 <img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/b.png?raw=true" width="500">
 
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/1.png?raw=true" width="500">
+
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/2.png?raw=true" width="500">
+
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/3.png?raw=true" width="500">
+
 # Connections available
 
 There are two types of connections, one connection is via dupont cables (20 individual cables and 1 single 2.54 pin row with 20 pins) and the other is vía a USB a connector.
@@ -72,6 +78,28 @@ The USB version needs a little circuit logic to translate the key stroke to a us
 | C2     		| 15pf                   | 0805                          |
 | C3    		| 15pf    | 0805             |
 | C4   		| 470nf                 | 0805                   |
+
+# Build steps
+
+## Standard version:
+
+First you must solder the pinrows, then put one switch between the metal case and the pcb, this is to align the holes between the pcb and the switches. This is like a sandwich:
+
+Cherry Key switch
+Metal plate
+Pcb
+
+You must solder the cherry key switches to the pcb once you have put them all, and the solder part its the bottom part.
+
+## USB version
+
+Solder all the smd parts, the USB connector and then apply the same step put one switch between the metal case and the pcb, this is to align the holes between the pcb and the switches. This is like a sandwich:
+
+Cherry Key switch
+Metal plate
+Pcb
+
+Note: If the rowpins are too high or the usb metal shield are too high, you must cut before you put the metal case on top. Also it's good to isolate it with tape.
 
 # License
 
