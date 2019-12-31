@@ -1,12 +1,25 @@
 # C64KBREPLACEMENT
 
-The C64 Keyboard Replacement it's a project based on the MEC64 and the Simon Inns project.
+This project allow to build a complete mechanical keyboard for my favorite machine, The C64. It's a project based on the MEC64 and the Simon Inns documentation. This current project is a mix of those both projects, allowing to have a C64 replacement keyboard and also use a C64 as an external o internal USB hosted keyboard (connect it to a Raspberry PI, PC, MAC or MIST). I have completely made this from ground using this two projects as reference, thanksfully because they are pretty well documented. The main reason for this it's because I bought a new C64C case from Pixelwizard ( Thomas Koch) and the C64 Ultimate Elite that I bought from Gideon Zweijtzer. 
+
+# Project references:
+
+MEC64 - released under MIT license https://deskthority.net/viewtopic.php?f=7&t=4522&start=
+
+The plate metal design and the keycaps adapters are from the MEC64. All the credits belong to tltx and his MEC64 project.
+
+Simon Inns - C64 Vice Front-End https://www.waitingforfriday.com/?p=470 
+
+Simon has made an excelent reverse engineering of the C64 original keyboard, allowing to everyone to build a C64 keyboard based on this schematics (hand made).
+
 
 # Updates
 
 31/12/2019: Initial release.
 
 # License
+
+This project is based on the CC BY-SA but part of the files also are from the MIT license. So you must respect each one.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
