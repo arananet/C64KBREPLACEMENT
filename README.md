@@ -1,16 +1,16 @@
 # C64KBREPLACEMENT
 
-This project allow to build a complete mechanical keyboard for my favorite machine, The C64. It's a project based on the MEC64 and the Simon Inns documentation. This current project is a mix of those both projects, allowing to have a C64 replacement keyboard and also use a C64 as an external o internal USB hosted keyboard (connect it to a Raspberry PI, PC, MAC or MIST). I have completely made this from ground using this two projects as reference, thanksfully because they are pretty well documented. The main reason for this it's because I bought a new C64C case from Pixelwizard ( Thomas Koch) and the C64 Ultimate Elite that I bought from Gideon Zweijtzer. 
+This project allow to build a complete mechanical keyboard for the best 8bit machine ever made, the C64. It's a project based on the MEC64 and the Simon Inns documentation. This current project is a mix of those both projects, allowing to have a C64 replacement keyboard and also use a C64 as an external o internal USB hosted keyboard (connect it to a Raspberry PI, PC, MAC or MIST). I have completely made this from ground using this two projects as reference, thanksfully because they are pretty well documented. The main reason for this it's because I bought a new C64C case from Pixelwizard ( Thomas Koch) and the C64 Ultimate Elite that I bought from Gideon Zweijtzer. 
 
 # Project references:
 
-MEC64 - released under MIT license https://deskthority.net/viewtopic.php?f=7&t=4522&start=
+MEC64 - released under MIT license https://deskthority.net/viewtopic.php?f=7&t=4522&start= or https://github.com/tltx/MeC64
 
 The plate metal design and the keycaps adapters are from the MEC64. All the credits belong to tltx and his MEC64 project.
 
 Simon Inns - C64 Vice Front-End https://www.waitingforfriday.com/?p=470 
 
-Simon has made an excelent reverse engineering of the C64 original keyboard, allowing to everyone to build a C64 keyboard based on this schematics (hand made).
+Simon has made an excelent reverse engineering of the C64 original keyboard, allowing to everyone to build a C64 keyboard based on this schematics (hand made). Also have made the USB controller part used on this board.
 
 # Files
 
@@ -29,33 +29,15 @@ The precompiled hex file required by the pic controller is available in the HEX 
 
 https://www.waitingforfriday.com/wp-content/uploads/2010/01/C64-Keyboard-and-Joystick-Adaptor-Hex.zip
 
-
-
-
-# Updates
-
-31/12/2019: Initial release.
-
-# License
-
-This project is based on the CC BY-SA but part of the files also are from the MIT license. So you must respect each one.
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
 # Note
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
-If you like the project, buy me a beer :) info@arananet.net
+If you like the project, buy me a beer or a Mercedes SLR :) info@arananet.net
+
+# Updates
+
+31/12/2019: Initial release.
 
 # Images
 
@@ -90,3 +72,18 @@ The USB version needs a little circuit logic to translate the key stroke to a us
 | C2     		| 15pf                   | 0805                          |
 | C3    		| 15pf    | 0805             |
 | C4   		| 470nf                 | 0805                   |
+
+# License
+
+This project is based on the CC BY-SA but part of the files also are from the MIT license. So you must respect each one.
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
