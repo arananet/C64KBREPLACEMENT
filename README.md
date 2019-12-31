@@ -1,4 +1,4 @@
-# C64 Keyboard Replacement (yeah, it does not have any name) :(
+# C64 Keyboard Replacement
 
 This project allow to build a complete mechanical keyboard for the best 8bit machine ever made, the C64. It's a project based on the MEC64 and the Simon Inns documentation. This current project is a mix of those both projects, allowing to have a C64 replacement keyboard and also use a C64 as an external o internal USB hosted keyboard (connect it to a Raspberry PI, PC, MAC or MIST). I have completely made this from ground using this two projects as reference, thanksfully because they are pretty well documented. The main reason for this it's because I bought a new C64C case from Pixelwizard ( Thomas Koch) and the C64 Ultimate Elite that I bought from Gideon Zweijtzer. 
 
