@@ -45,11 +45,11 @@ If you like the project, buy me a beer or a Mercedes SLR :) info@arananet.net
 
 <img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/b.png?raw=true" width="500">
 
-<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/1.png?raw=true" width="500">
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/1.jpg?raw=true" width="500">
 
-<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/2.png?raw=true" width="500">
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/2.jpg?raw=true" width="500">
 
-<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/3.png?raw=true" width="500">
+<img src="https://github.com/arananet/C64KBREPLACEMENT/blob/master/images/3.jpg?raw=true" width="500">
 
 # Connections available
 
