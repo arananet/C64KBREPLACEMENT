@@ -12,6 +12,25 @@ Simon Inns - C64 Vice Front-End https://www.waitingforfriday.com/?p=470
 
 Simon has made an excelent reverse engineering of the C64 original keyboard, allowing to everyone to build a C64 keyboard based on this schematics (hand made).
 
+# Files
+
+Metal plate:
+You can get the design files to build the metal plate from the DOC directory or also from the original authors of the MEC64.
+
+https://github.com/tltx/MeC64/tree/master/plate
+
+Keycaps adapters:
+You can get the design files to build the metal plate from the KEYCAPS directory or also from the original authors of the MEC64.
+
+https://github.com/tltx/MeC64/tree/master/keycap_adapter
+
+USB controller firmware:
+The precompiled hex file required by the pic controller is available in the HEX directory or also from the original author Simon Inns
+
+https://www.waitingforfriday.com/wp-content/uploads/2010/01/C64-Keyboard-and-Joystick-Adaptor-Hex.zip
+
+
+
 
 # Updates
 
