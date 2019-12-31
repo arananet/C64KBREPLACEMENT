@@ -87,3 +87,13 @@ International License][cc-by-sa].
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+# Useful links
+
+Cherry MX switches tested on this project:
+
+https://es.aliexpress.com/item/32834333057.html?spm=a2g0s.9042311.0.0.274263c0MlEfpp
+
+Long dupont cables 30cm female to female:
+
+https://es.aliexpress.com/item/32962785036.html?spm=a2g0o.productlist.0.0.59c0501d00u8MX&algo_pvid=e06c8c27-711b-4caa-acea-0dc9f25cc1ab&algo_expid=e06c8c27-711b-4caa-acea-0dc9f25cc1ab-2&btsid=483c4871-b1f0-4b3f-97c1-bf9883f7dafe&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_53
